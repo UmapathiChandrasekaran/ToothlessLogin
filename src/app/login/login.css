@@ -1205,3 +1205,9 @@
     background: #110000 !important;
     box-shadow: inset 0 0 8px #000000 !important;
 }
+
+/* Custom class for the footer font */
+.footer-font {
+    font-size: 1rem; /* 16px */
+    line-height: 1.5rem;
+}
